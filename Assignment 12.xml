@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="car.css"?>
+
+<carShowroom>
+    <heading>This is my car Showroom</heading>
+
+    <car>
+        <make>Toyota</make>
+        <model>Fortuner</model>
+        <year>2022</year>
+        <price>3800000</price>
+        <color>White</color>
+    </car>
+
+    <car>
+        <make>Honda</make>
+        <model>Honda Amaze</model>
+        <year>2023</year>
+        <price>1400000</price>
+        <color>Red</color>
+    </car>
+
+    <car>
+        <make>Ford</make>
+        <model>Mustang</model>
+        <year>2024</year>
+        <price>15000000</price>
+        <color>Blue</color>
+    </car>
+
+    <car>
+        <make>MAHINDRA</make>
+        <model>XUV 700</model>
+        <year>2024</year>
+        <price>2500000</price>
+        <color>Blue</color>
+    </car>
+
+    <car>
+        <make>TATA</make>
+        <model>CURVV</model>
+        <year>2025</year>
+        <price>900000</price>
+        <color>Blue</color>
+    </car>
+
+</carShowroom>
